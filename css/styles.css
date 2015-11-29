@@ -1,0 +1,25 @@
+.logo{
+	padding-top: 20px;
+}
+
+.h1{
+	font-size: 60px;
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #747704
+}
+
+.thin{
+	font-weight: 100;
+}
+
+.muted{
+	color: #BCBBBB;
+}
+
+.spaced{
+	margin-right: 20px;
+}
