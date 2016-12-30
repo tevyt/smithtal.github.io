@@ -23,3 +23,8 @@ body{
 .spaced{
 	margin-right: 20px;
 }
+
+.screen-shot{
+	width: 375px;
+	height: 200px;
+}
